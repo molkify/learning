@@ -13,3 +13,15 @@ html {
   font-family: monospace;
   text-align: center;
 }
+
+.input {
+	width: 100%;
+	background-color: transparent;
+	border: 1.5px rgb(255, 255, 255) solid;
+	border-radius: 5px;
+	font-size: 14px;
+	padding: 12px;
+	text-align: center;
+	color: white;
+	outline: none;
+  }
